@@ -2,34 +2,28 @@
 
 ## Introduction
 
-> Write a short reflection on your experience using the course IDE to complete your first programming assignment. Briefly describe what it was like to write, run, and test code in an IDE for the first time. Introduce the three IDE features you selected and briefly explain why learning to use IDE features can help you as a beginning programmer. Save specific examples for the feature sections below. Delete these instructions when done.
+The course IDE was intimidating at first, the navigation was a little hard to get used to and understand. However the IDE did help with many things using features such as syntax highlighting,the integrated terminal, and the error detection.
 
-TODO: Replace with your introduction here.
+## Feature 1 – Code editor and syntax highlighting
 
-## Feature 1 – TODO: Replace with name of your Feature1
+The code editor is what I used to write, edit, and saved my code for submission The colorful highlighting helped me stay organized in specific areas such as my input, variables, and strings. This also helped me read the overall code easier by showing what each part does and where they go. 
 
-> In one paragraph, identify the first feature you selected, explain what it does, and describe how it helped you while developing or testing your program. Include specific details about how it improved your workflow, made coding easier, or helped you find and fix errors more efficiently. Delete these instructions when done.
+## Feature 2 – Terminal
 
-TODO: Replace with your Feature 1 paragraph here.
 
-## Feature 2 – TODO: Replace with name of your Feature2
-
-> Write one paragraph explaining your second feature. Describe how it functions, what benefits it provided while coding, and why it might be valuable for beginning programmers. Connect the feature to your personal experience using it in this project. Delete these instructions when done.
-
-TODO: Replace with your Feature 2 paragraph here.
+The terminal is where I was able to run my program to see if it worked without leaving the ide to use something else. It allowed for me to put in different user_inputs and see the output and make sure my code responded.
 
 ## Feature 3 – TODO: Replace with name of your Feature3
 
-> In a single paragraph, identify and explain a third IDE feature. Discuss how it enhanced your programming experience or supported best practices such as readability, debugging, or organization. Give a brief, real example of how you used it. Delete these instructions when done.
 
-TODO: Replace with your Feature 3 paragraph here.
+With this assignment came quite a few minor problems that I overlooked and without the error detection, I would have been clueless. One example was with my indention on line 36, I added one too many and it showed me what line the issue was on and even gave me an option to have them fix it or explain it. 
 
 ## Conclusion
 
-> Summarize what you learned from using your IDE in this assignment. Reflect on how these features will support your future programming work and improve your confidence as a new programmer. Delete these instructions when done.
 
-TODO: Replace with your conclusion here.
+
+The IDE was super helpful once I got into the actual assignment. This IDE will be my lifeline for this class, it'll help me type codes, run them, and even aid in the explaining of errors I may leave behind.
 
 ## References
 
-TODO: Replace with your source citations here in APA style, if any. Delete section heading and this text if not used.
+
